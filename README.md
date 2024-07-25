@@ -33,6 +33,9 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dddd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dddd" height="30" width="40" /></a>
+
+<a href="https://linkedin.com/in/mehmet-turan-yardımcı-02bb01223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmet-turan-yardımcı" height="30" width="40" /></a>
+  
 <a href="https://instagram.com/mehmetturanyardimci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehmetturanyardimci" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mturany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mturany" height="30" width="40" /></a>
 </p>
