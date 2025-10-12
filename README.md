@@ -62,8 +62,6 @@ I am a Computer Engineering graduate specializing in **Robotics, AI, and Autonom
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mturan33&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Mehmet's GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mturan33&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
