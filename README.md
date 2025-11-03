@@ -27,7 +27,7 @@ I am a Computer Engineering graduate specializing in **Robotics, AI, and Autonom
 #### Robotics & Simulation
 <p align="left">
   <a href="https://developer.nvidia.com/isaac-sim" target="_blank" rel="noreferrer"><img src="https://github.com/mturan33/mturan33/blob/main/isaac-sim-logo.jpg?raw=true" alt="Isaac Sim" width="40" height="40"/></a>
-  <a href="https://mujoco.org/" target="_blank" rel="noreferrer"><img src="https://github.com/mturan33/mturan33/blob/main/mujoco-logo.jpg?raw=true" alt="Mujoco" width="40" height="40"/></a>
+  <a href="https://mujoco.org/" target="_blank" rel="noreferrer"><img src="https://github.com/mturan33/mturan33/blob/main/mujoco-logo.png?raw=true" alt="Mujoco" width="40" height="40"/></a>
   <a href="http://gazebosim.org/" target="_blank" rel="noreferrer"><img src="https://github.com/mturan33/mturan33/blob/main/gazebo-logo.jpg?raw=true" alt="Gazebo" width="40" height="40"/></a>
   <a href="https://www.ros.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" alt="ROS" width="40" height="40"/></a>
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original-wordmark.svg" alt="OpenCV" width="40" height="40"/></a>
