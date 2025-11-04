@@ -77,7 +77,7 @@ I am a recent Computer Engineering graduate from **Çukurova University**, speci
         <a href="https://github.com/mturan33/mujoco-ant-ppo-sac" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=mturan33&repo=mujoco-ant-ppo-sac&theme=tokyonight" alt="MuJoCo Ant PPO/SAC"/>
         </a>
-        <p>Training a MuJoCo Ant agent to walk using from-scratch implementations of PPO and SAC algorithms with PyTorch.</p>
+        <p>Training MuJoCo Ant-V5 agent to walk using from-scratch implementations of PPO algorithm with NumPy and PyTorch.</p>
       </div>
     </td>
     <td width="50%" valign="top">
