@@ -29,14 +29,13 @@ I am a recent Computer Engineering graduate from **Çukurova University**, speci
   <a href="https://mujoco.org/" target="_blank" rel="noreferrer"><img src="https://github.com/mturan33/mturan33/blob/main/mujoco-logo.png?raw=true" alt="Mujoco" width="40" height="50"/></a>
   <a href="http://gazebosim.org/" target="_blank" rel="noreferrer"><img src="https://github.com/mturan33/mturan33/blob/main/gazebo-logo.jpg?raw=true" alt="Gazebo" width="40" height="40"/></a>
   <a href="https://www.ros.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" alt="ROS" width="40" height="40"/></a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original-wordmark.svg" alt="OpenCV" width="40" height="40"/></a>
 </p>
 
 #### AI & Machine Learning
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/></a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="NumPy" width="40" height="40"/></a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original-wordmark.svg" alt="PyTorch" width="40" height="40"/></a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original-wordmark.svg" alt="OpenCV" width="40" height="40"/></a>
 </p>
 
 #### Programming Languages
