@@ -67,9 +67,7 @@ I am a recent Computer Engineering graduate from **Çukurova University**, speci
 
 ---
 
-### 🚀 My Projects
-
-Here are some of my projects that I'm passionate about.
+### 🚀 My Featured Projects
 
 <table width="100%">
   <tr>
