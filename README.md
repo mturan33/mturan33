@@ -4,20 +4,20 @@
     Hi there, I'm Mehmet Turan
     <a href="https://www.linkedin.com/in/mehmetturanyardimci/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   </h1>
-  <h3>A Junior Robotics Software Engineer passionate about AI and Autonomous Systems.</h3>
+  <h3>A Robotics Software Engineer passionate about AI and Autonomous Systems.</h3>
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-I am a Computer Engineering graduate specializing in **Robotics, AI, and Autonomous Systems**. I thrive on building real-world intelligent systems and contributing to high-impact R&D teams.
+I am a recent Computer Engineering graduate from **Çukurova University**, specializing in **Robotics, AI, and Autonomous Systems**. I am driven by the challenge of building real-world intelligent systems and am eager to contribute to high-impact R&D teams.
 
-- 🔭 I’m currently working on a benchmarking framework for local path planners using **ROS and the BARN dataset**.
-- 🤖 I have 3 years of experience leading a university UAV team, managing projects with **YOLO, ROS, and Gazebo**.
+- 🤖 My focus is on applying modern AI techniques, particularly **Deep Reinforcement Learning**, to solve complex robotics tasks.
+- 🎓 I led a university UAV team for 3 years, managing projects with **YOLO, ROS, and Gazebo**.
 - 🧠 My experience includes developing object detection systems with **YOLOv4-v8** and integrating them with platforms like **Isaac Sim, Jetson Nano, and Pixhawk**.
-- 🎓 My final year project on local planner benchmarking is currently **under publication review**.
-- 💬 Ask me about **Robotics, Computer Vision, and Autonomous Navigation**.
+- 📄 My final year project on local planner benchmarking is currently **under publication review**.
+- 💬 Ask me about **Robotics, Reinforcement Learning, and Autonomous Navigation**.
 - 📫 How to reach me: **mehmetturanyardimci@hotmail.com**
 
 ---
@@ -53,6 +53,7 @@ I am a Computer Engineering graduate specializing in **Robotics, AI, and Autonom
 #### Tools & Platforms
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+   <a href="https://streamlit.io" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit"/></a>
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/></a>
   <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="40" height="40"/></a>
 </p>
@@ -69,46 +70,26 @@ I am a Computer Engineering graduate specializing in **Robotics, AI, and Autonom
 
 ### 🚀 My Projects
 
-Here are some of the key projects I've worked on.
+Here are some of my projects that I'm passionate about.
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Benchmark Local Path Planners</h3>
+      <h3 align="center">MuJoCo Ant PPO/SAC</h3>
       <div align="center">
-        <a href="https://github.com/mturan33/benchmark-local-path-planners-barn-challenge" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mturan33&repo=benchmark-local-path-planners-barn-challenge&theme=tokyonight" alt="Benchmark Local Path Planners"/>
+        <a href="https://github.com/mturan33/mujoco-ant-ppo-sac" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mturan33&repo=mujoco-ant-ppo-sac&theme=tokyonight" alt="MuJoCo Ant PPO/SAC"/>
         </a>
-        <p>A benchmarking framework in ROS to evaluate local path planners (DWA, TEB) in complex environments using the BARN dataset.</p>
+        <p>Training a MuJoCo Ant agent to walk using from-scratch implementations of PPO and SAC algorithms with PyTorch.</p>
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">YOLOv7 UAV Detection</h3>
+      <h3 align="center">Live Actor-Critic Training</h3>
       <div align="center">
-        <a href="https://github.com/mturan33/YOLOV7-Fixed-Wing_UAV_Detection" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mturan33&repo=YOLOV7-Fixed-Wing_UAV_Detection&theme=tokyonight" alt="YOLOv7 UAV Detection"/>
+        <a href="https://github.com/mturan33/my-actor-critic" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mturan33&repo=my-actor-critic&theme=tokyonight" alt="Live Actor-Critic Training"/>
         </a>
-        <p>An implementation of YOLOv7 configured for the detection of fixed-wing UAVs from image and video sources.</p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">PID Control with NXT Robot</h3>
-      <div align="center">
-        <a href="https://github.com/mturan33/PID_Implementation_With_NXT_Robot" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mturan33&repo=PID_Implementation_With_NXT_Robot&theme=tokyonight" alt="PID Control with NXT Robot"/>
-        </a>
-        <p>Implemented a PID control algorithm on LEGO Mindstorms NXT robots for precise motor control using real-time sensor feedback.</p>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Weather Forecasting App</h3>
-      <div align="center">
-        <a href="https://github.com/mturan33/WeatherApp" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mturan33&repo=WeatherApp&theme=tokyonight" alt="Weather App"/>
-        </a>
-        <p>A mobile weather forecasting application built with Kotlin and the OpenWeather API to provide real-time weather data.</p>
+        <p>An interactive Streamlit app demonstrating a Reinforcement Learning agent solving the CartPole problem live in the browser.</p>
       </div>
     </td>
   </tr>
