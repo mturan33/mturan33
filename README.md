@@ -15,9 +15,8 @@ I am a recent Computer Engineering graduate from **Çukurova University**, speci
 
 - 🤖 My focus is on applying modern AI techniques, particularly **Deep Reinforcement Learning**, to solve complex robotics tasks.
 - 🎓 I led a university UAV team for 3 years, managing projects with **YOLO, ROS, and Gazebo**.
-- 🧠 My experience includes developing object detection systems with **YOLOv4-v8** and integrating them with platforms like **Isaac Sim, Jetson Nano, and Pixhawk**.
-- 📄 My final year project on local planner benchmarking is currently **under publication review**.
-- 💬 Ask me about **Robotics, Reinforcement Learning, and Autonomous Navigation**.
+- 🧠 My experience includes developing object detection systems with **YOLOv4-7-8** and integrating them with platforms like **Isaac Sim, Gazebo, Jetson Nano, and Pixhawk**.
+- 📄 My final year project on local planner benchmarking paper.
 - 📫 How to reach me: **mehmetturanyardimci@hotmail.com**
 
 ---
