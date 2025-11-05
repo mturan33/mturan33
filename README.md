@@ -72,7 +72,7 @@ I am a recent Computer Engineering graduate from **Çukurova University**, speci
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">MuJoCo Ant PPO/SAC</h3>
+      <h3 align="center">MuJoCo Ant PPO</h3>
       <div align="center">
         <a href="https://github.com/mturan33/mujoco-ant-ppo-sac" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=mturan33&repo=mujoco-ant-ppo-sac&theme=tokyonight" alt="MuJoCo Ant PPO/SAC"/>
