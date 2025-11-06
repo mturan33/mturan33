@@ -87,7 +87,3 @@ I'm open to **research collaborations** and **R&D opportunities** in robotics an
 Feel free to reach out: **mehmetturanyardimci@hotmail.com**
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mturan33&show_icons=true&theme=tokyonight&hide=stars&count_private=true" alt="GitHub Stats"/>
-</p>
