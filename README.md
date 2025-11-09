@@ -1,6 +1,6 @@
 # Mehmet Turan Yardımcı
 
-**Robotics Software Engineer** | Deep Reinforcement Learning & Autonomous Systems  
+**Robotics Software Engineer** | Reinforcement Learning & Motion Planning
 mehmetturanyardimci@hotmail.com | [LinkedIn](https://www.linkedin.com/in/mehmetturanyardimci/)
 
 ---
