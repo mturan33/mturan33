@@ -27,8 +27,8 @@ Currently working on:
 
 ## Featured Projects
 
-### [MuJoCo Ant PPO/SAC](https://github.com/mturan33/mujoco-ant-ppo-sac)
-From-scratch implementation of **PPO** and **SAC** algorithms for the MuJoCo Ant-v5 environment.
+### [MuJoCo Ant PPO](https://github.com/mturan33/mujoco-ant-ppo)
+From-scratch implementation of **PPO** algorithm for the MuJoCo Ant-v5 environment.
 
 **Key Features:**
 - Pure NumPy & PyTorch (no stable-baselines3)
