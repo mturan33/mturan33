@@ -10,7 +10,7 @@ mehmetturanyardimci@hotmail.com | [LinkedIn](https://www.linkedin.com/in/mehmett
 I'm a Computer Engineering graduate from **Çukurova University** (2025) with a strong focus on **robotics, reinforcement learning, and autonomous navigation**. I specialize in implementing state-of-the-art RL algorithms from scratch and deploying them on robotic platforms.
 
 Currently working on:
-- **Quadruped Locomotion** with Isaac Sim & MuJoCo
+- **Quadruped Locomotion** with Isaac Lab
 - **PPO/SAC** implementations for continuous control
 - **Local Path Planning** benchmark (BARN dataset)
 
