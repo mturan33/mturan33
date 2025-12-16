@@ -11,7 +11,7 @@ I'm a Computer Engineering graduate from **Çukurova University** (2025) with a 
 
 Currently working on:
 - **Quadruped Locomotion** with Isaac Lab
-- **PPO/SAC** implementations for continuous control
+- **PPO** implementations for continuous control
 - **Local Path Planning** benchmark (BARN dataset)
 
 ---
