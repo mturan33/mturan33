@@ -1,6 +1,6 @@
 # Mehmet Turan Yardımcı
 
-**Robotics and AI Engineer** | Reinforcement Learning & Motion Planning
+**Robot Learning Researcher**
 mehmetturanyardimci@hotmail.com | [LinkedIn](https://www.linkedin.com/in/mehmetturanyardimci/)
 
 ---
