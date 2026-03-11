@@ -13,7 +13,7 @@ I'm a Computer Engineering graduate from **Çukurova University** (2025) special
 
 ---
 
-## 🔬 Research Focus
+## Research Focus
 
 **Hierarchical VLM-RL for Humanoid Manipulation**
 - High-level: Vision-Language Models (Florence-2/Molmo2) for semantic scene understanding
@@ -23,7 +23,7 @@ I'm a Computer Engineering graduate from **Çukurova University** (2025) special
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Robot Learning:** PPO, SAC, Actor-Critic, GAE, Domain Randomization, Curriculum Learning  
 **Simulation:** NVIDIA Isaac Lab, Isaac Sim, MuJoCo, Gazebo, ROS/ROS2  
@@ -33,7 +33,7 @@ I'm a Computer Engineering graduate from **Çukurova University** (2025) special
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [G1 Humanoid Hierarchical VLM-RL](https://github.com/mturan33/g1-vlm-rl) *(In Progress)*
 Hierarchical control system for Unitree G1 humanoid robot combining VLM planning with RL execution.
@@ -84,7 +84,7 @@ Interactive Streamlit app demonstrating real-time RL training on CartPole.
 
 ---
 
-## 💼 Experience
+## Experience
 
 **UAV Team Captain** | 1.5 Adana AGM ALKAR (3 years)
 - Led 10+ member team designing autonomous UAV systems
@@ -93,7 +93,7 @@ Interactive Streamlit app demonstrating real-time RL training on CartPole.
 
 ---
 
-## 📚 Currently Exploring
+## Currently Exploring
 
 - **Hierarchical Control:** Whole-body humanoid manipulation with PPO + Flow Matching
 - **VLM Integration:** Florence-2/Molmo2 for semantic scene understanding and task planning
@@ -101,8 +101,8 @@ Interactive Streamlit app demonstrating real-time RL training on CartPole.
 
 ---
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 Open to **research collaborations** and **R&D opportunities** in humanoid robotics and robot learning.
 
-📧 mehmetturanyardimci@hotmail.com
+mehmetturanyardimci@hotmail.com
