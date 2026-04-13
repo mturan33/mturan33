@@ -13,6 +13,13 @@ Computer Engineering graduate from **Cukurova University** (2025) specializing i
 
 ## Featured Projects
 
+### [G1 Vision-Language-Action (VLA)](https://github.com/mturan33/isaac-g1-vla) *(In Progress)*
+RL-to-IL-to-VLA pipeline for the G1 humanoid. Collecting expert demonstrations from trained RL policies, then distilling into end-to-end visuomotor policies.
+
+- **Pipeline:** RL expert rollout -> LeRobot v2 dataset -> ACT/Diffusion Policy -> GR00T N1.6
+- **Data:** 22-dim joint actions (15 loco + 7 arm), RGB observations from tiled camera
+- **Goal:** End-to-end vision-to-action without hand-crafted skill primitives
+
 ### [G1 Humanoid Hierarchical Control](https://github.com/mturan33/g1-vlm-rl)
 End-to-end hierarchical system for Unitree G1 humanoid: VLM task planning + RL locomotion + arm manipulation + drawer interaction.
 
@@ -21,12 +28,12 @@ End-to-end hierarchical system for Unitree G1 humanoid: VLM task planning + RL l
 - **Skills:** Walk, reach, grasp, pull drawer, pick-and-place -- 6/6 drawer, 8/8 pick-place success
 - **Stack:** Isaac Lab, RSL-RL, PyTorch, Ollama, CUDA
 
-### [G1 Vision-Language-Action (VLA)](https://github.com/mturan33/isaac-g1-vla) *(In Progress)*
-RL-to-IL-to-VLA pipeline for the G1 humanoid. Collecting expert demonstrations from trained RL policies, then distilling into end-to-end visuomotor policies.
+### [G1 Unitree Locomotion Control (ULC)](https://github.com/mturan33/isaac-g1-ulc)
+Multi-stage PPO training pipeline for Unitree G1 whole-body locomotion. Flat walking, velocity tracking, terrain adaptation, torso stabilization, and arm coordination.
 
-- **Pipeline:** RL expert rollout -> LeRobot v2 dataset -> ACT/Diffusion Policy -> GR00T N1.6
-- **Data:** 22-dim joint actions (15 loco + 7 arm), RGB observations from tiled camera
-- **Goal:** End-to-end vision-to-action without hand-crafted skill primitives
+- **5-stage curriculum:** Flat -> Velocity -> Terrain -> Torso -> Arm control
+- **Performance:** 17k+ steps/sec, 4096 parallel envs, L7 curriculum
+- **Stack:** Isaac Lab, RSL-RL, PyTorch, CUDA
 
 ### [Isaac Lab Anymal-C Locomotion](https://github.com/mturan33/isaaclab-anymal-locomotion)
 PPO from scratch for quadruped locomotion in NVIDIA Isaac Lab. 17k+ steps/sec on RTX 5070 Ti, 4096 parallel envs, domain randomization for sim-to-real.
