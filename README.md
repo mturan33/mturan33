@@ -1,108 +1,63 @@
-# Mehmet Turan Yardımcı
-**Robot Learning Researcher | Hierarchical VLM-RL for Humanoid Control**
+# Mehmet Turan Yardimci
+**Robot Learning Researcher**
 
 mehmetturanyardimci@hotmail.com | [LinkedIn](https://www.linkedin.com/in/mehmetturanyardimci/) | [GitHub](https://github.com/mturan33)
 
 ---
 
-## 👋 About Me
+## About Me
 
-I'm a Computer Engineering graduate from **Çukurova University** (2025) specializing in **robot learning, reinforcement learning, and humanoid control**. My research focuses on **hierarchical VLM-RL systems** that combine vision-language understanding with low-level motor control for humanoid robots.
-
-**Current Research:** Developing a hierarchical control system for the **Unitree G1 humanoid robot** in NVIDIA Isaac Lab, combining PPO-based locomotion with Flow Matching manipulation policies.
-
----
-
-## Research Focus
-
-**Hierarchical VLM-RL for Humanoid Manipulation**
-- High-level: Vision-Language Models (Florence-2/Molmo2) for semantic scene understanding
-- Mid-level: Flow Matching for bimanual manipulation planning  
-- Low-level: PPO policies for whole-body locomotion control
-- Achieved **17,000+ steps/second** training speed with 4096 parallel environments
-
----
-
-## Tech Stack
-
-**Robot Learning:** PPO, SAC, Actor-Critic, GAE, Domain Randomization, Curriculum Learning  
-**Simulation:** NVIDIA Isaac Lab, Isaac Sim, MuJoCo, Gazebo, ROS/ROS2  
-**AI/ML:** PyTorch, TensorBoard, YOLO (v4-8), OpenCV, Flow Matching  
-**Platforms:** Unitree G1, Jetson Nano, Pixhawk  
-**Languages:** Python, C/C++, CUDA
+Computer Engineering graduate from **Cukurova University** (2025) specializing in robot learning, reinforcement learning, and humanoid control. Building hierarchical control systems that combine vision-language understanding with low-level motor control for humanoid robots.
 
 ---
 
 ## Featured Projects
 
-### [G1 Humanoid Hierarchical VLM-RL](https://github.com/mturan33/g1-vlm-rl) *(In Progress)*
-Hierarchical control system for Unitree G1 humanoid robot combining VLM planning with RL execution.
+### [G1 Humanoid Hierarchical Control](https://github.com/mturan33/g1-vlm-rl) *(In Progress)*
+End-to-end hierarchical system for Unitree G1 humanoid: VLM task planning + RL locomotion + arm manipulation + drawer interaction.
 
-**Architecture:**
-- Stage 1-2: Locomotion policy (velocity tracking, terrain adaptation)
-- Stage 3: Torso control (pitch/roll/yaw tracking while walking) — **24.69 reward**
-- Stage 4: Arm control with residual actions (77 obs dim, 22 actions) — **28.81 reward**
-- Stage 5+: VLM integration for language-conditioned manipulation
+- **High-level:** VLM planner (Qwen3-VL) generates skill sequences from natural language tasks
+- **Low-level:** PPO-trained locomotion (17k steps/sec) + arm policy (3cm precision)
+- **Skills:** Walk, reach, grasp, pull drawer, pick-and-place -- 6/6 drawer, 8/8 pick-place success
+- **Stack:** Isaac Lab, RSL-RL, PyTorch, Ollama, CUDA
 
-**Technologies:** Isaac Lab 2.3.1, RSL-RL, PyTorch, CUDA, TensorBoard
+### [G1 Vision-Language-Action (VLA)](https://github.com/mturan33/isaac-g1-vla) *(In Progress)*
+RL-to-IL-to-VLA pipeline for the G1 humanoid. Collecting expert demonstrations from trained RL policies, then distilling into end-to-end visuomotor policies.
 
----
+- **Pipeline:** RL expert rollout -> LeRobot v2 dataset -> ACT/Diffusion Policy -> GR00T N1.6
+- **Data:** 22-dim joint actions (15 loco + 7 arm), RGB observations from tiled camera
+- **Goal:** End-to-end vision-to-action without hand-crafted skill primitives
 
 ### [Isaac Lab Anymal-C Locomotion](https://github.com/mturan33/isaaclab-anymal-locomotion)
-PPO implementation from scratch for quadruped locomotion in NVIDIA Isaac Lab.
-
-**Highlights:**
-- 17,000+ steps/second on single RTX 5070 Ti GPU
-- Domain randomization for sim-to-real transfer
-- Vectorized environments with 4096 parallel instances
-
----
+PPO from scratch for quadruped locomotion in NVIDIA Isaac Lab. 17k+ steps/sec on RTX 5070 Ti, 4096 parallel envs, domain randomization for sim-to-real.
 
 ### [MuJoCo Ant PPO](https://github.com/mturan33/mujoco-ant-ppo)
-From-scratch PPO & SAC implementation for MuJoCo Ant-v5 environment.
-
-**Key Features:**
-- Pure NumPy & PyTorch
-- Custom reward shaping to eliminate hopping behavior
-- **2700+ reward** achieved in 8M steps
-- GAE (λ=0.95), learning rate annealing, exploration decay
-
----
+From-scratch PPO and SAC for MuJoCo Ant-v5. Pure NumPy/PyTorch, custom reward shaping, 2700+ reward in 8M steps.
 
 ### [Local Path Planner Benchmark](https://github.com/mturan33/benchmark-local-path-planners-barn-challenge)
-Benchmarking framework for ROS navigation planners using BARN dataset.
+Benchmarking ROS navigation planners (TEB, DWA, MPC, Lattice) on BARN dataset. Under publication review.
 
-**Planners Tested:** TEB, DWA, MPC, Lattice  
-**Status:** Under publication review at Çukurova University Engineering Journal
+### [Live Actor-Critic Training](https://github.com/mturan33/my-actor-critic)
+Interactive Streamlit app for real-time RL training visualization on CartPole.
 
 ---
 
-### [Live Actor-Critic Training](https://github.com/mturan33/my-actor-critic)
-Interactive Streamlit app demonstrating real-time RL training on CartPole.
-- Watch the agent learn live in browser
-- Adjustable hyperparameters for educational purposes
+## Tech Stack
+
+**Robot Learning:** PPO, SAC, GAE, Domain Randomization, Curriculum Learning, Flow Matching, Imitation Learning
+**Simulation:** NVIDIA Isaac Lab/Sim, MuJoCo, Gazebo, ROS/ROS2
+**AI/ML:** PyTorch, YOLO (v4-8), OpenCV, VLMs (Florence-2, Qwen3-VL)
+**Platforms:** Unitree G1, Jetson Nano, Pixhawk
+**Languages:** Python, C/C++, CUDA
 
 ---
 
 ## Experience
 
 **UAV Team Captain** | 1.5 Adana AGM ALKAR (3 years)
-- Led 10+ member team designing autonomous UAV systems
-- Integrated YOLOv7 + Jetson Nano + Pixhawk for TEKNOFEST competitions
-- Developed real-time object detection for fixed-wing UAVs
+- Led 10+ member team for autonomous UAV systems at TEKNOFEST
+- YOLOv7 + Jetson Nano + Pixhawk integration for real-time detection
 
 ---
 
-## Currently Exploring
-
-- **Hierarchical Control:** Whole-body humanoid manipulation with PPO + Flow Matching
-- **VLM Integration:** Florence-2/Molmo2 for semantic scene understanding and task planning
-- **Sim-to-Real:** Domain randomization and teacher-student distillation for G1 deployment
-
----
-
-## Let's Connect!
-
-Open to **research collaborations** and **R&D opportunities** in humanoid robotics and robot learning.
-
-mehmetturanyardimci@hotmail.com
+Open to research collaborations and R&D opportunities in humanoid robotics and robot learning.
