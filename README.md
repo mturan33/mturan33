@@ -20,7 +20,7 @@ RL-to-IL-to-VLA pipeline for the G1 humanoid. Collecting expert demonstrations f
 - **Data:** 22-dim joint actions (15 loco + 7 arm), RGB observations from tiled camera
 - **Goal:** End-to-end vision-to-action without hand-crafted skill primitives
 
-### [G1 Humanoid Hierarchical Control](https://github.com/mturan33/g1-vlm)
+### [G1 Humanoid Hierarchical Control](https://github.com/mturan33/g1-hierarchical)
 End-to-end hierarchical system for Unitree G1 humanoid: VLM task planning + RL locomotion + arm manipulation + drawer interaction.
 
 - **High-level:** VLM planner (Qwen3-VL) generates skill sequences from natural language tasks
