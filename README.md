@@ -13,6 +13,10 @@ Computer Engineering graduate from **Cukurova University** (2025) specializing i
 
 ## Featured Projects
 
+### [SmolVLA Flow RL](https://github.com/mturan33/smolvla_flow_rl)
+Online reinforcement learning fine tuning of a flow matching vision language action policy, on a single 12GB consumer GPU.
+A verification first substrate: a configuration that would train nothing is refused before the run starts, and what trains is printed before the first update.
+
 ### [G1 Vision-Language-Action (VLA)](https://github.com/mturan33/isaac-g1-vla) *(In Progress)*
 RL-to-IL-to-VLA pipeline for the G1 humanoid. Collecting expert demonstrations from trained RL policies, then distilling into end-to-end visuomotor policies.
 
