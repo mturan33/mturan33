@@ -6,7 +6,7 @@ Incoming M.Sc. student at Karlsruhe Institute of Technology (KIT). Computer Engi
 University. I work on RL fine tuning of vision language action policies on consumer hardware, and hierarchical
 control for humanoid robots.
 
-mehmetturanyardimci@hotmail.com | [LinkedIn](https://www.linkedin.com/in/mehmetturanyardimci/) | [arXiv](https://arxiv.org/search/?searchtype=author&query=Yardimci%2C+Mehmet+Turan)
+mehmetturanyardimci@hotmail.com | [LinkedIn](https://www.linkedin.com/in/mehmetturanyardimci/) | [Google Scholar](https://scholar.google.com/citations?user=t-aymboAAAAJ) | [arXiv](https://arxiv.org/search/?searchtype=author&query=Yardimci%2C+Mehmet+Turan)
 
 ---
 
@@ -18,7 +18,7 @@ Online RL fine tuning of a flow matching VLA policy on a single 12GB consumer GP
 A verification first substrate: what trains is a logged fact, not an assumption.
 [Project page](https://mturan33.github.io/smolvla_flow_rl/)
 
-### [G1 Vision Language Action pipeline](https://github.com/mturan33/isaac-g1-vla) *(in progress)*
+### G1 Vision Language Action pipeline *(in progress, repository not public yet)*
 
 RL to IL to VLA pipeline for the Unitree G1: expert demonstrations from trained RL policies, distilled into end
 to end visuomotor policies (ACT, Diffusion Policy, GR00T N1.6).
