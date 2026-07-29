@@ -6,7 +6,7 @@ Incoming M.Sc. student at Karlsruhe Institute of Technology (KIT). Computer Engi
 University. I work on RL fine tuning of vision language action policies on consumer hardware, and hierarchical
 control for humanoid robots.
 
-mehmetturanyardimci@hotmail.com | [LinkedIn](https://www.linkedin.com/in/mehmetturanyardimci/) | [Google Scholar](https://scholar.google.com/citations?user=t-aymboAAAAJ) | [arXiv](https://arxiv.org/search/?searchtype=author&query=Yardimci%2C+Mehmet+Turan)
+mehmetturanyardimci@hotmail.com | [LinkedIn](https://www.linkedin.com/in/mehmetturanyardimci/) | [Google Scholar](https://scholar.google.com/citations?user=t-aymboAAAAJ) | [arXiv](https://arxiv.org/abs/2606.11891)
 
 ---
 
